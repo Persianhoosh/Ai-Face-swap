@@ -1,7 +1,9 @@
 Description
 =
+      Easy installation tutorial
       Live face change        
       Using a webcam or video file
+      source (https://github.com/hacksider/Deep-Live-Cam)
 
 *How to Use:*
 =
