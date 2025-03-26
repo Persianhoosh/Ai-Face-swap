@@ -14,12 +14,17 @@ Deep Fake Ai | Face swap Live
    ==============================
       git clone https://github.com/hacksider/Deep-Live-Cam.git
       cd Deep-Live-Cam 
-      
-2.Download models:
-   ===============================
+2.Install requirements:
+   ===============================  
+      # requirements at the bottom of the page
+      * Activating the virtual environment along the project path
+   
+3.Download models:
+   ===============================   
       https://huggingface.co/hacksider/deep-live-cam/resolve/main/GFPGANv1.4.pth
       https://huggingface.co/hacksider/deep-live-cam/resolve/main/inswapper_128_fp16.onnx
 _________________________________
+
 
 Note
    ===============================     
@@ -43,9 +48,12 @@ _____________________________
 ## Requirements
       pip
       git
-      Python (3.10 recommended)
-      ffmpeg - iex (irm ffmpeg.tc.ht)
-      Visual Studio 2022 Runtimes (Windows)
+      Python(3.10)
+      Cuda (12.1 or 11.8)
+      Chocolatey (Chocolatey.org/install)
+      ffmpeg  (Choco install ffmpeg)
+      Visual Studio 2022 Runtimes
+      and ... Requirement.txt
 _____________________________
 
 
